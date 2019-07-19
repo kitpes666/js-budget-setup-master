@@ -40,9 +40,9 @@ expenseForm.addEventListener('submit', function(event){
 })
 //expense click
 expenseList.addEventListener('click', function(){
+  
 })
 }
-
 
 document.addEventListener('DOMContentLoaded', function(){
   eventListeners();
